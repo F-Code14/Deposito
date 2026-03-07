@@ -1,4 +1,4 @@
-package temp;
+package cuentas;
 
 
 public class CCuenta {
